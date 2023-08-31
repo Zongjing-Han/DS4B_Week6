@@ -1,6 +1,6 @@
 ---
 title: "Week 6 Quiz"
-author: "Your name and U number"
+author: "ZOngjing HAn and U7627363"
 date: "Today's date"
 output: 
  html_document:
